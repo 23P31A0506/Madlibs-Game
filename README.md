@@ -1,2 +1,15 @@
-# Madlibs-Game
-🎉 Mad Libs is a fun and silly word game where players fill in blanks in a story using random words—without knowing the full context. The twist? The words must match specific parts of speech like nouns, verbs, adjectives, or adverbs
+# 🐵 Mad Libs Game 📝
+
+A simple and fun **Mad Libs** word game built using Python!  
+Users are prompted to enter random words (like adjectives, nouns, and verbs), which are then used to generate a short, silly story.
+
+---
+
+## 🚀 How It Works
+
+This game asks the player for:
+- 3 **adjectives**
+- 1 **noun**
+- 1 **verb** (ending in "ing")
+
+Then it plugs the words into a preset story template and prints the final story.
